@@ -1,6 +1,6 @@
 ![MasterHead](https://luo3ms4tlu-flywheel.netdna-ssl.com/wp-content/uploads/2019/06/Cloud-Banner_AWS-Bnner-1.png)
 <h1 align="center">Hi 👋, I'm Bharat Balaji D</h1>
-<h3 align="center">A passionate Cloud & DevOps Engineer from India</h3>
+<h3 align="center">A passionate Cloud Engineer from India</h3>
 
 
 - 🌱 I’m currently learning **Terraform, Ansible, CKA, AWS SA**
